@@ -36,6 +36,8 @@ Un seul neurone ne peut modeliser que les phenomènes lineairement separables
 ![definir model](images/definirmodel.png)
 ## Réseau de neurones avec TF2.Keras
 ![compile](images/compilemodele.png)
+## Evaluer le réseau de neurones
+![neurone](images/evaluermodele.png)
 
 
 
