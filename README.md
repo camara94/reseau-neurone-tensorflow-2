@@ -19,6 +19,9 @@ Un seul neurone ne peut modeliser que les phenomènes lineairement separables
 ![anaconda](images/anaconda.png)
 ## Anaconda Navigator
 ![anacondanav](images/anacondanav.png)
+## Spyder
+![spyder](images/spyder.png)
+
 
 
 
