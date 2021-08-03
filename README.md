@@ -13,5 +13,7 @@ Un seul neurone ne peut modeliser que les phenomènes lineairement separables
 ![nuseulneurone](images/unseulneurone.png)
 ## Architecture de réseaux de neurones
 ![neurones](images/architecture.png)
+## Differents types de couches d'un réseau de neurone
+![different](images/differentcouches.png)
 
 
