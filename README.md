@@ -15,5 +15,7 @@ Un seul neurone ne peut modeliser que les phenomènes lineairement separables
 ![neurones](images/architecture.png)
 ## Differents types de couches d'un réseau de neurone
 ![different](images/differentcouches.png)
+## Anaconda
+![anaconda](images/anaconda.png)
 
 
