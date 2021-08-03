@@ -11,4 +11,7 @@ Un seul neurone ne peut modeliser que les phenomènes lineairement separables
 ![seulneuronse](images/seulneurone.png)
 ## Réseau de neurones
 ![nuseulneurone](images/unseulneurone.png)
+## Architecture de réseaux de neurones
+![neurones](images/architecture.png)
+
 
