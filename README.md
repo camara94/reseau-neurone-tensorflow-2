@@ -23,6 +23,8 @@ Un seul neurone ne peut modeliser que les phenomènes lineairement separables
 ![spyder](images/spyder.png)
 ## Pourquoi Tensorflow 2.0 ?
 ![pourquoi tensorflow 2](images/tf2.png)
+## Tnesorflow 2.0 and Keras
+![tensorflowandkeras](images/tfandkeras.png)
 
 
 
