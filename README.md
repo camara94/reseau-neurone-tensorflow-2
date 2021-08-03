@@ -21,6 +21,7 @@ Un seul neurone ne peut modeliser que les phenomènes lineairement separables
 ![anacondanav](images/anacondanav.png)
 ## Spyder
 ![spyder](images/spyder.png)
+## Pourquoi Tensorflow 2.0 ?
 
 
 
