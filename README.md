@@ -6,4 +6,8 @@ TensorFlow est une bibliothèque open source de Machine Learning, créée par Go
 ![boite noire](images/boitenoire.png)
 ## Exemple introductif: Perceptron
 ![perceptron](images/perceptron.png)
+## Exemple avec seul neurone
+Un seul neurone ne peut modeliser que les phenomènes lineairement separables
+![seulneuronse](images/seulneurone.png)
+## Réseau de neurones
 
