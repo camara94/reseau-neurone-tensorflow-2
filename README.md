@@ -10,4 +10,5 @@ TensorFlow est une bibliothèque open source de Machine Learning, créée par Go
 Un seul neurone ne peut modeliser que les phenomènes lineairement separables
 ![seulneuronse](images/seulneurone.png)
 ## Réseau de neurones
+![nuseulneurone](images/unseulneurone.png)
 
