@@ -38,6 +38,7 @@ Un seul neurone ne peut modeliser que les phenomènes lineairement separables
 ![compile](images/compilemodele.png)
 ## Evaluer le réseau de neurones
 ![neurone](images/evaluermodele.png)
+![spyder](images/codecompletdansspyder.png)
 
 
 
