@@ -30,6 +30,8 @@ Un seul neurone ne peut modeliser que les phenomènes lineairement separables
 ## Detail de la création du modèl
 ## Charger le jeu de données
 ![chargedonnees](images/chargedonnees.png)
+## Réseau de neurones avec TF2.Keras
+![reseau deneurones](images/reseaudeneuronesavectfkeras.png)
 
 
 
